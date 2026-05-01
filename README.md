@@ -18,9 +18,9 @@ I specialize in Python, Generative AI, Machine Learning, and backend AI integrat
 Currently, I am developing AI-driven applications including recommendation systems, AI assistants, 
 and intelligent educational platforms while continuously improving my expertise in Deep Learning, FastAPI, Transformers, and modern AI architectures.
 </p>
-<h2 align="center">🧠 Core Competencies</h2>
+<h2 align="Left">🧠 Core Competencies</h2>
 
-<p align="center">
+<p align="Left">
 🤖 Generative AI & LLM Applications <br>
 📚 Retrieval-Augmented Generation (RAG) Systems <br>
 🧠 Machine Learning & Deep Learning <br>
@@ -28,7 +28,7 @@ and intelligent educational platforms while continuously improving my expertise 
 📊 Recommendation Systems & Intelligent Automation <br>
 🔍 AI-Powered Real-World Problem Solving
 </p>
-<h2 align="center">⚒️ Tech Stack</h2>
+<h2 align="Left">⚒️ Tech Stack</h2>
 
 <h3 align="center">💻 Languages</h3>
 
@@ -51,9 +51,9 @@ OpenAI API • LangChain • Transformers • Scikit-Learn • RAG Pipelines
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux" />
 </p>
-<h2 align="center">🔥 Current Ventures & Goals</h2>
+<h2 align="Left">🔥 Current Ventures & Goals</h2>
 
-<p align="center">
+<p align="Left">
 🔭 <b>Currently Working On:</b> Improving retrieval accuracy and response generation in RAG-based AI systems <br><br>
 
 🌱 <b>Currently Learning:</b> Advanced Deep Learning, Reinforcement Learning, Prompt Engineering, and LLM Architectures <br><br>
@@ -62,7 +62,7 @@ OpenAI API • LangChain • Transformers • Scikit-Learn • RAG Pipelines
 
 💡 <b>Career Goal:</b> Building scalable AI systems and contributing to impactful AI/ML innovations globally
 </p>
-<h2 align="center">📊 GitHub Analytics</h2>
+<h2 align="Left">📊 GitHub Analytics</h2>
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=piyush29-pr&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -75,7 +75,7 @@ OpenAI API • LangChain • Transformers • Scikit-Learn • RAG Pipelines
 </p>
 <h2 align="center">🏆 Featured Projects</h2>
 
-<p align="center">
+<p align="Left">
 🎯 Anime Recommendation System using Hybrid Filtering <br>
 🏥 Blockchain-Powered Healthcare Record System <br>
 🤖 AI Assistants & Intelligent Chatbots <br>
