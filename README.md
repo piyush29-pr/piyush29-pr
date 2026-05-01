@@ -6,6 +6,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00BFFF&center=true&vCenter=true&width=700&lines=AI%2FML+Developer;Python+Developer;Building+Real-World+AI+Systems;Deep+Learning+Enthusiast" />
 </p>
+
 ---
 
 <h2 align="center">🚀 About Me</h2>
