@@ -1,7 +1,7 @@
 <p align="center">
   <img src="banner.png" alt="Banner" width="100%">
 </p>
-# Hi 👋, I'm Piyush
+## Hi 👋, I'm Piyush
 
 ### AI/ML Developer | Python Enthusiast | Building Real-World Intelligent Systems
 
