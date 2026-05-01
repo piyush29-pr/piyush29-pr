@@ -73,7 +73,7 @@ OpenAI API • LangChain • Transformers • Scikit-Learn • RAG Pipelines
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush29-pr&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-<h2 align="center">🏆 Featured Projects</h2>
+<h2 align="Left">🏆 Featured Projects</h2>
 
 <p align="Left">
 🎯 Anime Recommendation System using Hybrid Filtering <br>
@@ -81,7 +81,7 @@ OpenAI API • LangChain • Transformers • Scikit-Learn • RAG Pipelines
 🤖 AI Assistants & Intelligent Chatbots <br>
 📷 Computer Vision and Deep Learning Projects
 </p>
-<h2 align="center">🌐 Connect With Me</h2>
+<h2 align="Left">🌐 Connect With Me</h2>
 
 <p align="center">
 <a href="YOUR_LINKEDIN_LINK">
