@@ -7,7 +7,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00BFFF&center=true&vCenter=true&width=700&lines=AI%2FML+Developer;Python+Developer;Building+Real-World+AI+Systems;Deep+Learning+Enthusiast" />
 </p>
 
----
 
 <h2 align="center">🚀 About Me</h2>
 
@@ -16,7 +15,6 @@ Passionate AI/ML developer focused on building intelligent systems, AI assistant
 recommendation engines, and real-world machine learning applications.
 </p>
 
----
 
 <h2 align="center">🧠 AI Focus Areas</h2>
 
@@ -29,7 +27,6 @@ recommendation engines, and real-world machine learning applications.
 🧬 Transformers & LLMs
 </p>
 
----
 
 <h2 align="center">⚒️ Tech Stack</h2>
 
@@ -37,7 +34,6 @@ recommendation engines, and real-world machine learning applications.
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi,sklearn,mysql,git,github,vscode,docker" />
 </p>
 
----
 
 <h2 align="center">🔥 Current Goals</h2>
 
@@ -48,7 +44,6 @@ recommendation engines, and real-world machine learning applications.
 💡 Solving real-world problems using intelligent systems
 </p>
 
----
 
 <h2 align="center">📊 GitHub Stats</h2>
 
