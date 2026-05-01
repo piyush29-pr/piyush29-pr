@@ -8,13 +8,13 @@
 </p>
 <h2 align="center">🚀 About Me</h2>
 
-<p align="center">
+<p align="Left">
 I’m Piyush Prajapati, an Engineering student passionate about building intelligent AI systems, 
 Retrieval-Augmented Generation (RAG) pipelines, and Large Language Model applications.  
 I specialize in Python, Generative AI, Machine Learning, and backend AI integration, with a focus on creating scalable and impactful real-world solutions.
 </p>
 
-<p align="center">
+<p align="Left">
 Currently, I am developing AI-driven applications including recommendation systems, AI assistants, 
 and intelligent educational platforms while continuously improving my expertise in Deep Learning, FastAPI, Transformers, and modern AI architectures.
 </p>
