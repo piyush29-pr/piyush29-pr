@@ -1,8 +1,11 @@
 <p align="center">
   <img src="banner.png" alt="Banner" width="100%">
 </p>
-## Hi 👋, I'm Piyush
+<h1 align="center">Hi 👋, I'm Piyush Prajapati</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00BFFF&center=true&vCenter=true&width=700&lines=AI%2FML+Developer;Python+Developer;Building+Real-World+AI+Systems;Deep+Learning+Enthusiast" />
+</p>
 ### AI/ML Developer | Python Enthusiast | Building Real-World Intelligent Systems
 
 - 🔭 Currently working on AI/ML Projects
